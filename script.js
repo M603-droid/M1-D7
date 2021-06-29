@@ -17,6 +17,9 @@ document.querySelector('body').style.backgroundColor = "green"
 
 
 // <!-- EX9.: Write a function to change the footer address with a fake one -->
+let changeTheFooter = function(){
+    document.querySelector('footer').innerText = " 1444 North street London "
+}
     
 
     
