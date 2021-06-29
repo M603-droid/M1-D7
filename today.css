@@ -1,5 +1,5 @@
 table, th, td, tr {
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
     background-color: ivory;
   }
@@ -8,7 +8,7 @@ table, th, td, tr {
     text-align: left;    
   }
   h1 {
-      background-color: greenyellow;
+      text-align: center;
       color: black;
 
   }
@@ -24,5 +24,6 @@ table, th, td, tr {
   margin: auto;
   background: white;
   padding: 10px;
+  background-color:lavender
  }
  
