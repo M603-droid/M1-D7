@@ -26,4 +26,7 @@ table, th, td, tr {
   padding: 10px;
   background-color:lavender
  }
+ .change-color{
+   color: red;
+ }
  

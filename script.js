@@ -24,6 +24,8 @@ let changeTheFooter = function(){
 
     
 // <!-- EX10.: Write a function to add a CSS class to every Amazon link -->
-
+let addClass = function(){
+   document.querySelectorAll('a').classlist.add('change-color')
+}
 // <!-- EX11: Write a function to toggle a CSS class for all the images in the table; that class should set the visibility of the image -->
 // <!-- EX12: Write a function to color the price of each product in a different one every time it's invoked -->
